@@ -63,7 +63,7 @@ nav ul li a {
 
 
 .fwimage1{
-	background-image: url(images/zz.jpg);
+	background-image: url(zz.jpg);
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
@@ -73,7 +73,7 @@ nav ul li a {
 }
 
 .fwimage2{
-	background-image: url(images/aboutme.jpeg);
+	background-image: url(aboutme.jpeg);
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
@@ -83,7 +83,7 @@ nav ul li a {
 }
 
 .fwimage3{
-	background-image: url(images/books.jpg);
+	background-image: url(books.jpg);
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
@@ -92,7 +92,7 @@ nav ul li a {
 	 
 }
 .fwimage4{
-	background-image: url(images/pro.jpg);
+	background-image: url(pro.jpg);
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
@@ -101,7 +101,7 @@ nav ul li a {
 	 
 }
 .fwimage5{
-	background-image: url(images/black.jpg);
+	background-image: url(black.jpg);
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
